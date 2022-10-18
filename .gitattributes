@@ -1,0 +1,5 @@
+Space[[:space:]]Crusher filter=lfs diff=lfs merge=lfs -text
+AkaiGX220D filter=lfs diff=lfs merge=lfs -text
+Compressor filter=lfs diff=lfs merge=lfs -text
+GX220D[[:space:]]Preamp filter=lfs diff=lfs merge=lfs -text
+Soft[[:space:]]Clipper filter=lfs diff=lfs merge=lfs -text
